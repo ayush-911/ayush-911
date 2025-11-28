@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/zY2bQW0.jpeg" width="100%" />
+  <img src="https://share.google/images/Y0vSn0Pc38dajBfs1" width="100%" />
 </p>
 
 <h1 align="center">✨ Hey, I'm Ayush ✨</h1>
@@ -10,7 +10,7 @@
 
 <!-- Cute Aesthetic GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/3fJ1P4g.gif" width="250"/>
+  <img src="https://share.google/images/miL9hlH9UdwVn2UvW" width="250"/>
 </p>
 
 ---
