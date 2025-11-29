@@ -1,6 +1,5 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://share.google/images/Y0vSn0Pc38dajBfs1" width="100%" />
 </p>
 
 <h1 align="center">✨ Hey, I'm Ayush ✨</h1>
@@ -8,12 +7,6 @@
 
 ---
 
-<!-- Cute Aesthetic GIF -->
-<p align="center">
-  <img src="https://share.google/images/miL9hlH9UdwVn2UvW" width="250"/>
-</p>
-
----
 
 ## 🌸 About Me
 - 🔭 Working on: *Fake News Detector* , *GuessFI* , etc
@@ -22,18 +15,6 @@
 - ⚡ Vibe: Clean · Simple · Modern
 
 ---
-
-## 🖼 Random Aesthetic Pics (Auto-refresh)
-<p align="center">
-  <img src="https://source.unsplash.com/random/800x400/?aesthetic,blue" width="45%">
-  <img src="https://source.unsplash.com/random/800x400/?technology,minimal" width="45%">
-</p>
-
-<p align="center">
-  <img src="https://source.unsplash.com/random/800x400/?cyberpunk" width="45%">
-  <img src="https://source.unsplash.com/random/800x400/?clouds,minimal" width="45%">
-</p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -48,15 +29,13 @@
 </div>
 
 ---
-
-## 🌈 Animated Divider
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊My GitHub Stats 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayush-s911&show_icons=true&theme=tokyonight" height="160">
