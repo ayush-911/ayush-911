@@ -1,69 +1,108 @@
 <!-- Banner -->
 <p align="center">
+  <img src="https://i.imgur.com/sgkRwI7.gif" width="600">
 </p>
 
-<h1 align="center">✨ Hey, I'm Ayush ✨</h1>
-<h3 align="center">Aspiring CSE Student | ML & Python Developer | UI Designre</h3>
+<h1 align="center">👋 Hi, I'm Ayush Kumar Trivedi</h1>
+<h3 align="center">CSE (AIML) Student | AI & ML Enthusiast | Developer from Kolkata</h3>
 
 ---
 
-
-## 🌸 About Me
-- 🔭 Working on: *Fake News Detector* , *GuessFI* , etc
-- 🌱 Learning: *Python, ML, Streamlit UI*
-- 🎨 Love creating: *Minimal & aesthetic designs*
-- ⚡ Vibe: Clean · Simple · Modern
-
----
----
-
-## 🛠 Tech Stack
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Sklearn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+## 👨‍🎓 About Me
+- 🌍 From *Kolkata, India*
+- 🎓 Studying *Computer Science & Engineering (AI & ML)*  
+  at *Narula Institute of Technology*
+- 🤖 Passionate about *AI, Machine Learning, Deep Learning & Automation*
+- 💻 Loves building *real-world projects*
+- 🚀 Always learning & improving
 
 ---
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
+
+## 🔥 Tech Stack (Languages & Tools I Use)
+
+### 🧠 *Languages*
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+</p>
+
+### 🛠 *Tools & Frameworks*
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,git,github,vscode,tensorflow" />
 </p>
 
 ---
 
-## 📊My GitHub Stats 
-<div align="center">
+## 📌 My Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-s911&show_icons=true&theme=tokyonight" height="160">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-s911&theme=tokyonight" height="160">
+### 📰 *Fake News Detector (ML + NLP)*
+- Uses machine learning to classify real/fake news
+- Streamlit UI  
+- Built using TF-IDF + Logistic Regression  
+   Guessfi (number guessing model)
+🔗 *GitHub:* -"https://github.com/ayush-911/FALSE-NEWS-DETECTOR "
 
-</div>
+---
+
+### 🤖 *AI Chatbot*
+- NLP based chatbot  
+- Trained on custom intents  
+- Python + TensorFlow  
+
+🔗 *GitHub:* - " "
+
+---
+
+### 📊 *Student Performance Predictor*
+- Predicts student performance using ML  
+- Uses sklearn + pandas  
+
+🔗 *GitHub:*" "
+
+---
+
+## 📈 GitHub Stats
+
+### ⭐ GitHub Profile Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+### 🔥 Streak Stats
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+### 📊 Top Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Activity Graph
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/ayush-s911/ayush-s911/blob/output/github-contribution-grid-snake.svg" />
+<p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+  <a href="https://www.linkedin.com/in/ayush-trivedi-72201a395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
 ---
 
-### 💫 Aesthetic Outro
-<p align="center">
-  <img src="https://i.imgur.com/7E4X1gD.jpeg" width="70%">
-</p>
-
-<h3 align="center">⭐ Thanks for visiting — keep vibing ⭐</h3>
+<p align="center">⚡ Always building, always learning. ⚡</p>
