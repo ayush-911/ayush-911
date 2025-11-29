@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/sgkRwI7.gif" width="600">
-</p>
-
 <h1 align="center">👋 Hi, I'm Ayush Kumar Trivedi</h1>
 <h3 align="center">CSE (AIML) Student | AI & ML Enthusiast | Developer from Kolkata</h3>
 
